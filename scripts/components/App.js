@@ -1,6 +1,6 @@
 import React from 'react';
 
-var App = React.createClass({
+const App = React.createClass({
   getInitialState() {
     return {
       clicks: 0
