@@ -1,8 +1,0 @@
-{
-  "esnext": true,
-  "undef": true,
-  "unused": true,
-  "predef": ["module", "require"],
-  "browser": true,
-  "devel": true
-}
